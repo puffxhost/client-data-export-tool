@@ -32,3 +32,6 @@ The addon targets WHMCS 8.13+ and PHP 7.4+. Try it on a staging installation fir
 - An administrator who can access the addon can export any client by ID. Restrict the addon to a small, trusted role set.
 - Validate against the exact WHMCS and PHP versions in your deployment before release.
 
+## Made by
+
+Made with ❤️ by [Nitin Mehta](https://github.com/puffxhost).
