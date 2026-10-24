@@ -67,7 +67,7 @@ Need help or want to report an issue?
 
 ## 📜 License
 
-This project’s app code is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details. Model weights have separate license terms; see the model license section above.
+This project’s app code is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
 
 ## 🙌 Contributing
 
